@@ -9,4 +9,9 @@ class Maths {
         return sum;
     }
 
+    public int sub(int first, int second) {
+        int minus = first - second;
+        return minus;
+    }
+
 }
